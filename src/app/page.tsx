@@ -11,6 +11,7 @@ import Burgerlist from './components/Burgerlist';
 import Menuitem from './components/Menuitem';
 import Reservation from './components/Reservation';
 
+
 const App = () => {
   return (
     <div className='bg-gradient-to-r from-black to-slate-700 min-h-screen'>
